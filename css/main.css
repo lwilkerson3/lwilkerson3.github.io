@@ -17,6 +17,20 @@ ul {
     padding: 0;
 }
 
+ul.contacts {
+    padding: 25px;
+    text-align: center;
+}
+ul.contacts li {
+    background-color: #EEE;
+    border-radius: 15px;
+    margin: 10px 30%;
+}
+ul.contacts li a {
+    display: block;
+    padding: 10px;
+}
+
 ul.navbar {
     overflow: hidden;
     text-align: center;
