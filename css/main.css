@@ -58,7 +58,7 @@ ul.navbar {
     text-align: center;
 }
 ul.navbar li {
-    float: left;
+    display: inline-block;
 }
 ul.navbar li a {
     display: block;
