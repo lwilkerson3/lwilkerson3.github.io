@@ -30,7 +30,8 @@ div.desc {
     text-align: center;
 }
 h1 {
-    font-size: 64pt;
+    text-align: center;
+    font-size: 600%;
     margin: 10px 0;
 }
 ul {
